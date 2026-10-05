@@ -294,7 +294,7 @@ Customer-Shopping-Behavior-Analysis/
 
 # 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](dashboard.png)
+![Customer Behavior Dashboard](./Customer_Behavior_DashBoard.png)
 
 > The Power BI dashboard provides interactive filtering and visual analysis of customer demographics, subscriptions, categories, shipping preferences, revenue, and sales.
 
