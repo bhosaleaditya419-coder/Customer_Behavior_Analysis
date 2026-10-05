@@ -6,6 +6,16 @@ The project analyzes **3,900 customer purchase records** and converts raw transa
 
 ---
 
+---
+
+# 📊 Dashboard Preview
+
+![Customer Behavior Dashboard](./Customer_Behavior_DashBoard.png)
+
+> The Power BI dashboard provides interactive filtering and visual analysis of customer demographics, subscriptions, categories, shipping preferences, revenue, and sales.
+
+---
+
 ## 🚀 Project Overview
 
 Understanding customer behavior is essential for improving customer retention, increasing revenue, optimizing marketing campaigns, and identifying high-value customer segments.
@@ -290,15 +300,7 @@ Customer-Shopping-Behavior-Analysis/
        └── Project documentation
 ```
 
----
 
-# 📊 Dashboard Preview
-
-![Customer Behavior Dashboard](./Customer_Behavior_DashBoard.png)
-
-> The Power BI dashboard provides interactive filtering and visual analysis of customer demographics, subscriptions, categories, shipping preferences, revenue, and sales.
-
----
 
 # 🎯 Skills Demonstrated
 
